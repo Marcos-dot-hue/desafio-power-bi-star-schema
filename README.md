@@ -132,6 +132,13 @@ A tabela `fato_docencia` registra as ocorrências de docência e conecta as dife
 
 A estrutura permite analisar a carga horária e a quantidade de turmas sob diferentes perspectivas, como professor, curso, departamento, disciplina e período.
 
+## 📂 Arquivos do Projeto
+
+O repositório disponibiliza os principais arquivos utilizados no desenvolvimento do projeto:
+
+- **`dashboard-academico-star-schema-power-bi.pbix`** — arquivo do Power BI contendo o modelo dimensional, medidas DAX e dashboard interativo.
+- **`star-schema-universidade.sql`** — script SQL para criação do banco de dados, dimensões, tabela fato, carga dos dados e consulta de validação.
+
 ## 🖼️ Evidências do Projeto
 
 ### Dashboard Acadêmico — Visão Geral
