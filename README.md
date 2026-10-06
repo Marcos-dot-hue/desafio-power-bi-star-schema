@@ -134,6 +134,20 @@ A estrutura permite analisar a carga horária e a quantidade de turmas sob difer
 
 ## 🖼️ Evidências do Projeto
 
+### Dashboard Acadêmico — Visão Geral
+
+![Dashboard Acadêmico — Visão Geral](dashboard-academico-visao-geral.png)
+
+### Modelo Dimensional — Star Schema
+
+![Modelo Dimensional — Star Schema](modelo-star-schema-power-bi.png)
+
+### Dashboard com Filtro — Engenharia de Produção
+
+![Dashboard com Filtro — Engenharia de Produção](dashboard-filtro-engenharia-producao.png)
+
+
+
 O repositório apresenta evidências das principais etapas e resultados do projeto:
 
 - Dashboard Acadêmico — visão geral
